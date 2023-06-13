@@ -1,0 +1,30 @@
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    padding: 0 !important;
+}
+.navbar-brand
+{
+    width: 60;
+    padding: left 10;;
+}
+.navbar-nav li
+{
+ padding: 0 10px;
+
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 600;
+}
+.image
+{
+    height: 60px !important;
+}

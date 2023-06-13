@@ -1,0 +1,52 @@
+
+.btn-primary
+{
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    columns: #fff;
+    float: right;
+    width: 100px;
+}
+.btn-warning
+{
+    box-shadow: none;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    columns: #fff;
+    width: 100px;
+    color: #fff;
+}
+.profile
+{
+    font-weight: bold;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.input-field
+{
+    /*border: none;*/
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+}
+.number-field
+{
+    /*border: none;*/
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 250px;
+    height: 30px; 
+}
+.address-field
+{
+    width: 400px;
+    height: 100px;
+    margin-left: 70px;
+    margin-top: 20px;
+}

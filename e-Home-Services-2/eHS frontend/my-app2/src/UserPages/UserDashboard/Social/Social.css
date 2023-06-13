@@ -1,0 +1,21 @@
+/*Social media */
+#social
+{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social p
+{
+font-size: 36px;
+font-weight: 600;
+margin-bottom: 30px;
+}
+.social img
+{
+    width: 60px;
+    transition: 0.5s;
+}
+.social a:hover img
+{
+transform: translateY(-10px);
+}
